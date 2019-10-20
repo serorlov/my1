@@ -13,7 +13,7 @@ echo "<!DOCTYPE html><html><head><meta charset='utf-8'>
 <tbody>
 <tr><td style='padding: 20px'>
 <div class='authform'><h3>Добро пожаловать!</h3>
-<div style='margin-bottom: 18px'>Git-проект № 215
+<div style='margin-bottom: 18px'>Git-проект № 215 -2
 </div>
 <a href='https://ospanel.io/docs/' id='link' style='color: #4D5662'>Руководство пользователя</a></td></tr>
 </tbody>
